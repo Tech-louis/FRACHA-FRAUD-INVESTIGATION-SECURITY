@@ -8,9 +8,7 @@ export default function Logo() {
           <div className="w-full h-full relative">
             {/* Africa outline */}
             <div className="absolute inset-0 flex items-center justify-center">
-              <svg viewBox="0 0 100 100" className="w-full h-full fill-current text-red-600">
-                <path d="M50,10 C60,25 70,40 65,60 C60,80 40,85 35,65 C30,45 40,25 50,10" />
-              </svg>
+              <img src='./img/ffisecurity~logo.png'></img>
             </div>
             {/* FFI text */}
             <div className="absolute inset-0 flex items-center justify-center">
