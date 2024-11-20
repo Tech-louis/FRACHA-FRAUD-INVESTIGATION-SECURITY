@@ -2,7 +2,7 @@ import React from 'react';
 import { Shield, Users, Building2, Radio, Camera, Search, FileSearch } from 'lucide-react';
 import Navbar from './components/Navbar';
 import ServiceCard from './components/ServiceCard';
-import Logo from './img/ffisecurity~logo.png';
+import Logo from './src/components/Logo.tsx';
 
 function App() {
   return (
